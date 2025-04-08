@@ -1,0 +1,12 @@
+
+resource "aws_key_pair" "my-key" {
+  key_name   = "my-key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBEiBFMvdfooGBnBYjOnT3WvO8JcwiFIp8CGvfAJ4pWxFp0MQYYx8GtfZOxQ7seqKCMkKNj4fBBUs4fJZIgDy6UcqZCDpZ6D1tuPMcFVu38NypWGobSdsGnOv1EHLsML+YDQvfUmSuu6UDbYfsF0hT8bmM14WuedU7++kPeCfbIXDw1/7PDx4A3gsGwce0kcdA/cTWSjRI/YbTpA0cmRyxQc+JUmy+Z6Qmk2A/OzwvZSfe83iSpctue9/9jiOlXNll3xL44bEpT+lIidW94KDR7XmWXpGZDptS1G8RzdHyYpvWS8xdGtF9EQTw/2taWFK+Iehz+EKBz8/G0nsKjqbAIolUQc9qTSCJJFhvo+hCaT2dYKnY2JbAGoG8Fc1oWytIWP5YAqHuvJGvEsJMSCE46cgcrRe6UVFwXqdH37rIMaJe/Pqazb5vCjXgqQ5gBLwEMHYmCmeDmZ0lPumznQpt86cbeiPhxdFQMPLUWCxYBTrnxlmZvevTSv2h2rDOLiEHBy6A9aWh/P2fN/cIXGxEWvSpgvoLVhXQfmmyg002mNMz+DvELrMsosyuCsL2RqJfhLS4CFwQu+fgQCpXikd3llnTO25HevuzpMhe+m0RISIgFAyBAgK7P1WtmNn1id3c+3X8/b0zwF1EejRf38c016NPGaTAvIg0+kGpRmKsmQ== omar@Omar-Fathy"
+
+
+}
+
+
+
+
+
